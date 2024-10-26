@@ -161,6 +161,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore the chainlit template
+# Ignore the chainlit template and ignore the source output
 .chainlit/
 chainlit.md
+.files/
